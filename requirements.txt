@@ -1,0 +1,10 @@
+crewai
+crewai-tools
+streamlit
+python-dotenv
+pydantic
+openai
+huggingface_hub
+requests
+tavily-python
+pyyaml
